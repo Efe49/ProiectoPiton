@@ -27,9 +27,9 @@
   <a href="#related">Related</a> •
   <a href="#license">License</a>
 </p>
-
+<p align="center">
 ![screenshot](https://media.tenor.com/gTg8ZSZMR6YAAAAC/scaler-create-impact.gif)
-
+</p>
 ## Key Features
 
 * Increible funcionamiento
