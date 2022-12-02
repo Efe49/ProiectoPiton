@@ -1,9 +1,9 @@
 
 <h1 align="center">
   <br>
-  <a href=""><img src="https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.png" alt="Markdownify" width="200"></a>
+  <a href=""><img src="https://cdn-icons-png.flaticon.com/512/6887/6887294.png" alt="Audioteca" width="200"></a>
   <br>
-  Markdownify
+  Audiotequita
   <br>
 </h1>
 
